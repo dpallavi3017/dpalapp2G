@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/f9f56367-619a-4665-87c9-162501959322/resourceGroups/appsvc_rg_windows_centralus/providers/Microsoft.Web/sites/dpalapp2",
+    "appService.deploySubpath": ""
+}
