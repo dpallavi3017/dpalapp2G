@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<p id="test">Welcome</p>
+<script>
+var a = unescape(document.location);
+document.write(a);
+</script>
+
+</body>
+</html>
+
+<!-- //https://blog.compass-security.com/2013/01/dom-based-xss-unsafe-javascript-functions/ -->
